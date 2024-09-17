@@ -7,5 +7,5 @@
         </p>
         <div><b>Fig 1. Displays a localized currency value.</b></div><br>
         <div>
-<IMG src="picture_library/formatstring/fig2.png">
+<IMG src="images/fig2.png">
 </div><br>
